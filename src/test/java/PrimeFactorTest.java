@@ -7,4 +7,3 @@ class PrimeFactorTest {
     void name() {
         assertEquals(1, 1);
     }
-}
